@@ -19,7 +19,7 @@ Great Activity
 Band: 
 America's Best - Central Indiana Championship
 Member Size: 
-30
+33
 Activity: 
 Low Activity
 Admin Activity: 
@@ -55,7 +55,7 @@ No Posts in Band
 Band: 
 CHEERSPORT- Philadelphia Grand Championship
 Member Size: 
-26
+25
 Activity: 
 Low Activity
 Admin Activity: 
@@ -73,7 +73,7 @@ Great Activity
 Band: 
 Coastal - The Cajun Battle
 Member Size: 
-21
+22
 Activity: 
 Great Activity
 Admin Activity: 
@@ -91,7 +91,7 @@ No Posts in Band
 Band: 
 Encore Championships - Houston DI & DII
 Member Size: 
-503
+475
 Activity: 
 Great Activity
 Admin Activity: 
@@ -118,7 +118,7 @@ Low Activity
 Band: 
 Holiday Classic - Cheer DI & DII
 Member Size: 
-39
+38
 Activity: 
 Great Activity
 Admin Activity: 
@@ -163,7 +163,7 @@ No Posts in Band
 Band: 
 The American Grand DI & DII
 Member Size: 
-112
+114
 Activity: 
 Great Activity
 Admin Activity: 
