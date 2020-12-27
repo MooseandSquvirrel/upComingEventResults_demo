@@ -98,10 +98,7 @@ to clone the repo!
 
 ### Prerequisites
 
-* Make sure to have Python 3
-  ```sh
-  N/A
-  ```
+* Make sure to have Python 3.
 
 ### Installation
 
