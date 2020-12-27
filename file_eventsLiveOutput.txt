@@ -1,0 +1,92 @@
+Event: USA Collegiate Finals Event
+Member Size: 78
+Member Activity: No Posts 
+Admin Activity: Normal Activity
+
+Event: Jr. Nationals Event
+Member Size: 79
+Member Activity: No Posts 
+Admin Activity: Normal Activity
+
+Event: 2020 Nationals Event Costa Mesa
+Member Size: 791
+Member Activity: No Posts 
+Admin Activity: Good Activity
+
+Event: Open Championship
+Member Size: 4
+Member Activity: No Posts 
+Admin Activity: No Posts 
+
+Event: Phoenix Fliers
+Member Size: 4
+Member Activity: No Posts 
+Admin Activity: No Posts 
+
+Event: Champions Classic
+Member Size: 6
+Member Activity: No Posts 
+Admin Activity: No Posts 
+
+Event: Tall Nationals
+Member Size: 1916
+Member Activity: No Posts 
+Admin Activity: Normal Activity
+
+Event: Cupid Arrow Run
+Member Size: 15
+Member Activity: No Posts 
+Admin Activity: No Posts 
+
+Event: Duel in the Sun
+Member Size: 24
+Member Activity: Very Low Activity
+Admin Activity: No Posts 
+
+Event: Kansas City Championship
+Member Size: 47
+Member Activity: No Posts 
+Admin Activity: Low Activity
+
+Event: PlayFest
+Member Size: 41
+Member Activity: No Posts 
+Admin Activity: No Posts 
+
+Event: Jersey Shots
+Member Size: 5
+Member Activity: No Posts 
+Admin Activity: No Posts 
+
+Event: MG Funival
+Member Size: 4
+Member Activity: No Posts 
+Admin Activity: No Posts 
+
+Event: The Showdown
+Member Size: 20
+Member Activity: Very Low Activity
+Admin Activity: No Posts 
+
+Event: New England Championship
+Member Size: 4
+Member Activity: No Posts 
+Admin Activity: No Posts 
+
+Event: Celebration National Championship 
+Member Size: 14
+Member Activity: No Posts 
+Admin Activity: No Posts 
+
+Event: The American Classic
+Member Size: 13
+Member Activity: Very Low Activity
+Admin Activity: No Posts 
+
+Event: Valentine's Day Classic
+Member Size: 6
+Member Activity: No Posts 
+Admin Activity: No Posts 
+
+
+
