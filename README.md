@@ -97,8 +97,7 @@ This program was not meant for being open-sourced and therefore
 is not for use in it's full functionality to be reproduced locally. This is because of the permissions required including:
 staff/employee permissions, API scope and other necessary info not accessible to the public. The application's confidential information and files integral to its functioning have therefore been removed. 
 
-If you'd like to download the code to have a simple out of the box command-line interface for programs you're working on, or to just review the code, feel free
-to clone the repo!
+If you'd like to download the code to have the template for a simple out of the box command-line interface for programs you're working on, or to just review the code, feel free to clone the repo!
 
 ### Prerequisites
 
