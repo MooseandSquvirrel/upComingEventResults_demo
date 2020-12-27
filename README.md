@@ -61,7 +61,6 @@
       </ul>
     </li>
     <li><a href="#usage">Usage</a></li>
-    <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
   </ol>
 </details>
@@ -70,7 +69,12 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-![](images/upComingExample.png)
+
+<p align="center">
+  <a href="https://github.com/MooseandSquvirrel/upComingEventsResults_demo">
+    <img src="images/upcomingExample.png" alt="Events Program Logo" width="450" height="350">
+  </a>
+</p>
 
 This command-line program was created for partnership and content
 marketing teams at a start-up. The company's app was used by partner companies and organizations to organize and communicate around events they hosted or attended, and would collect data in the backend that was not easily accessible by non-dev teams.
@@ -112,7 +116,7 @@ to clone the repo!
 
 For creating command-line programs to make API calls inorder to automate data analysis.
 
-_For more examples, try it out [Demo Again](https://github.com/MooseandSquvirrel/upComingEventResults_demo.git)_
+_To view the code: [Documentation](https://github.com/MooseandSquvirrel/upComingEventResults_demo.git)_
 
 
 <!-- CONTACT -->
