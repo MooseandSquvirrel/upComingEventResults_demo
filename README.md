@@ -72,7 +72,7 @@
 
 <p align="center">
   <a href="https://github.com/MooseandSquvirrel/upComingEventsResults_demo">
-    <img src="images/upcomingExample.png" alt="Events Program Logo" width="450" height="350">
+    <img src="images/editedImg.png" alt="Events Program Logo" width="315" height="300">
   </a>
 </p>
 
