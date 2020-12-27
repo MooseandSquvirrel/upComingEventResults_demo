@@ -34,7 +34,7 @@
   <p align="center">
     A command-line program to automate the analysis of upcoming or live events' data.
     <br />
-    <a href="https://github.com/MooseandSquvirrel/upComingEventsResults_demo"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/MooseandSquvirrel/upComingEventResults_demo"><strong>Explore the docs »</strong></a>
     <br />
     <br />
     <a href="https://github.com/MooseandSquvirrel/upComingEventResults_demo/blob/master/file_eventsLive.txt">Example Raw Output</a>
